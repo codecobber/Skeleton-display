@@ -90,7 +90,7 @@
 /* For devices with width 550px to 1000px */
 @media (min-width: 550px){
   .container {
-    color:#000;
+    color:#525252;
     width: 95%;
     padding:2%;
   }
